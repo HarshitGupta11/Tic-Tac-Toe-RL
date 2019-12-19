@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-RL
 This project uses Reinforcement Learning to train a software agent play tic-tac-toe from scratch. It uses Game Theory,Minimax Theory and Temporal Difference Learning.
 <br/>
-The agents learns to play tic-tac-toe by playing againist each other. Both the agents are trying to maximize rewards and trying to win againist one another.The q-values of each state and action are stored and later used to play the game.
+The agents learns to play tic-tac-toe by playing against each other. Both the agents are trying to maximize rewards and trying to win against one another.The q-values of each state and action are stored and later used to play the game.
 <br/>
 <br/>
 ## There are two versions of this game :
